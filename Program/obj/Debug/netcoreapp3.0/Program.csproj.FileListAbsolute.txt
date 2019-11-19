@@ -1,0 +1,11 @@
+C:\Users\Keeolin\source\repos\Program\obj\Debug\netcoreapp3.0\Program.csprojAssemblyReference.cache
+C:\Users\Keeolin\source\repos\Program\obj\Debug\netcoreapp3.0\Program.AssemblyInfoInputs.cache
+C:\Users\Keeolin\source\repos\Program\obj\Debug\netcoreapp3.0\Program.AssemblyInfo.cs
+C:\Users\Keeolin\source\repos\Program\bin\Debug\netcoreapp3.0\Program.exe
+C:\Users\Keeolin\source\repos\Program\bin\Debug\netcoreapp3.0\Program.deps.json
+C:\Users\Keeolin\source\repos\Program\bin\Debug\netcoreapp3.0\Program.runtimeconfig.json
+C:\Users\Keeolin\source\repos\Program\bin\Debug\netcoreapp3.0\Program.runtimeconfig.dev.json
+C:\Users\Keeolin\source\repos\Program\bin\Debug\netcoreapp3.0\Program.dll
+C:\Users\Keeolin\source\repos\Program\bin\Debug\netcoreapp3.0\Program.pdb
+C:\Users\Keeolin\source\repos\Program\obj\Debug\netcoreapp3.0\Program.dll
+C:\Users\Keeolin\source\repos\Program\obj\Debug\netcoreapp3.0\Program.pdb
